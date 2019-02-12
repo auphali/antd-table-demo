@@ -1,3 +1,5 @@
+@import '~antd/dist/antd.css';
+
 .App {
   text-align: center;
 }
@@ -21,6 +23,16 @@
 
 .App-link {
   color: #61dafb;
+}
+.data-header {
+  background-color: aquamarine;
+}
+.over10000 {
+  background-color: pink;
+}
+.over10 {
+  background-color: teal;
+  color:white;
 }
 
 @keyframes App-logo-spin {

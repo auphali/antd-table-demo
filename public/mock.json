@@ -1,0 +1,16 @@
+[
+    {"id":"1","product":"1 Capsule","sales":[
+        {"id":"dp08rf","product":"Valisanbe 5mg Tb","vol":1,"price":566,"qty":6},
+        {"id":"rf89hf","product":"Alganax 0.5mg Tb","vol":0.125,"price":5112,"qty":8},
+        {"id":"f78esf","product":"Ativan 0.5mg Tb","vol":"1/4","price":4066,"qty":7.5},
+        {"id":"aw0e9n","product":"Proclozam 10mg Tb","vol":"5/2","price":2464,"qty":16},
+        {"id":"gb8esv","product":"Sanmol 500mg Tb","vol":350,"price":400,"qty":21},
+        {"id":"2i3bfb","product":"Coffeine 0.5mg Tb","vol":25,"price":1543,"qty":0.75},
+        {"id":"v80pho","product":"Veritasserum 10mg Tb","vol":10,"price":900,"qty":9},
+        {"id":"32ehio","product":"Whatever 1000mg Tb","vol":"7/11","price":777,"qty":6}
+    ]},
+    {"id":"2","product":"Liquid","sales":[
+        {"id":"sdfighk","product":"Coca Cola","vol":1,"price":4000,"qty":10},
+        {"id":"feiugne","product":"Wedang Jahe","vol":1,"price":2000,"qty":15}
+    ]}
+]
